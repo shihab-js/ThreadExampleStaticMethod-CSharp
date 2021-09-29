@@ -6,7 +6,7 @@ namespace ThreadExampleStaticMethod
     {
         static void Main(string[] args)
         {
-            
+             
         }
     }
 }
